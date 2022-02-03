@@ -1,3 +1,4 @@
 # Webdesign
 EF-Informatik 2022
-Webseite, welche Sek-Schüler Informationen zum Gymnasium gibt.
+Webseite, welche einen Matura-Arbeit-Leitfaden darstellen soll.
+Inhalt: Vorgaben, Tipps, Zitierung, Lehrerwahl, anonymes Forum von Absolventen, Präsentation, Abstract, Termine
