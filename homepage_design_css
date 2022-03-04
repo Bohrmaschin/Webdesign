@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .background {
+    background-image: url("KBWSchule.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 85vh;
+    opacity: 0.8;
+    }
+  .homepage {
+    font-size: 40px;
+    width: auto;
+    height: 500vh;
+    position: relative;
+    margin-top: 2%;
+    text-align: center;
+    color: black;
+  }
+  .subtitle {
+    font-size: 35px;
+    margin: auto;
+    height: auto;
+    word-wrap: break-word;
+    max-width: 1300px;
+    color: black;
+    display: flex;
+    text-align: justify;
+  }
+  .line {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+  }
+  .line::before,
+  .line::after {
+    content: "";
+    height: 8px;
+    background-color: black;
+  }
+.intro {
+    margin-top: 15%;
+}
+.title {
+    width: 25%;
+    font-size: 40px;
+    float: left;
+    margin-left: 16%;
+    text-align: justify;
+}
+.paragraph {
+    width: 45%;
+    font-size: 28px;
+    text-align: justify;
+    float: left;
+    margin-right: 14%;
+    word-wrap: break-word;
+    max-width: 830px;
+}
