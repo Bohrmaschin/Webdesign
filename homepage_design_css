@@ -13,7 +13,7 @@
   .homepage {
     font-size: 40px;
     width: auto;
-    height: 500vh;
+    height: 20vh;
     position: relative;
     margin-top: 2%;
     text-align: center;
@@ -41,21 +41,42 @@
     background-color: black;
   }
 .intro {
-    margin-top: 15%;
+    margin-top: 10%;
 }
-.title {
+.title-left {
     width: 25%;
     font-size: 40px;
     float: left;
     margin-left: 16%;
     text-align: justify;
 }
-.paragraph {
+.paragraph-left {
     width: 45%;
     font-size: 28px;
     text-align: justify;
     float: left;
-    margin-right: 14%;
+    margin-right: 15%;
     word-wrap: break-word;
     max-width: 830px;
 }
+.instruction{
+    margin-top: 50%;
+}
+.title-right {
+    width: 25%;
+    font-size: 40px;
+    text-align: right;
+    float: right;
+    margin-right: 15%;
+}
+.paragraph-right {
+    width: 70%;
+    font-size: 28px;
+    float: right;
+    margin-left: 16%;
+    text-align: justify;
+    word-wrap: break-word;
+    max-width: 830px;
+    margin-bottom: 20%;
+}
+
