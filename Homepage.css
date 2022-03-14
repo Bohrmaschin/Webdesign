@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+    background-color:floralwhite;
+  }
+  .background {
+    background-image: url("KBWSchule.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 86vh;
+    }
+  .homepage {
+    font-size: 40px;
+    width: auto;
+    height: 20vh;
+    position: relative;
+    margin-top: 2%;
+    text-align: center;
+    color: black;
+  }
+  .subtitle {
+    font-size: 28px;
+    margin: auto;
+    height: auto;
+    word-wrap: break-word;
+    max-width: 1300px;
+    color: black;
+    display: flex;
+    text-align: justify;
+    width: 1100px;
+    margin-top: 3%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+  }
+  .line {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    font-family: helvetica;
+    color: burlywood;
+  }
+  .line::before,
+  .line::after {
+    content: "";
+    height: 8px;
+    background-color: black;
+  }
+.intro {
+    margin-top: 5%;
+}
+.title-left {
+    width: 20%;
+    height: 31vh;
+    font-size: 40px;
+    color: #5C4033;
+    float: left;
+    margin-left: 16%;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+    background-color: burlywood;
+}
+.paragraph-right {
+    width: 45%;
+    font-size: 28px;
+    text-align: justify;
+    float: right;
+    margin-right: 15%;
+    word-wrap: break-word;
+    max-width: 830px;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}
+.instruction{
+    margin-top: 41%;
+}
+.title-right {
+    width: 22%;
+    height: 50vh;
+    font-size: 40px;
+    color: #5C4033;
+    text-align: center;
+    float: right;
+    background-color: burlywood;
+    margin-right: 15%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+    background-color: burlywood;
+}
+.paragraph-left {
+    width: 70%;
+    font-size: 28px;
+    float: left;
+    margin-left: 16%;
+    text-align: justify;
+    word-wrap: break-word;
+    max-width: 830px;
+    margin-bottom: 20%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}

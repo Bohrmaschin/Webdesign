@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+    background-color:floralwhite;
+}
+.Video h1 {
+    font-size: 45px;
+    color: #5C4033;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+    background-color: burlywood;
+}
+.Film {
+    text-align: center;
+}
+.Video p {
+    font-size: 28px;
+    text-align: justify;
+    word-wrap: break-word;
+    max-width: 1400px;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}

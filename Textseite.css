@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+    background-color: floralwhite;
+  }
+.text_links {
+    margin-top: 5%;
+}
+.title-right {
+    width: 22%;
+    height: 50vh;
+    font-size: 35px;
+    text-align: center;
+    color: #5C4033;
+    float: right;
+    margin-right: 15%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    background-color: burlywood;
+    border-color: black;
+}
+.paragraph-left {
+    width: 70%;
+    font-size: 28px;
+    float: left;
+    margin-left: 16%;
+    text-align: justify;
+    word-wrap: break-word;
+    max-width: 830px;
+    margin-bottom: 15%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}
+.Themenwahl h1 {
+    font-size: 60px;
+    color: #5C4033;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+    background-color: burlywood;
+}
+.Themenwahl p {
+    font-size: 28px;
+    text-align: justify;
+    word-wrap: break-word;
+    max-width: 1400px;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    border: 5px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}
