@@ -1,3 +1,4 @@
+<!Hier wird eine Verbindung zur Datenbank auf phpMyAdmin aufgebaut>
 <?php
     $database = array();
     $database['host'] = 'localhost';
