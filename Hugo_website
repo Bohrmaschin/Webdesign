@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset= "utf-8">
+    <title>Maturitätsarbeit</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<nav>
+		<label class="logo">Maturitätsarbeiten</label>
+		<ul>
+			<li><a href="webseite_3.html">home</a></li>
+            <li><a href="webseite_2.html">Informationen</a></li>         
+            <li><a href="#">Termine</a></li>
+			<li><a href="">Tipps</a></li>
+			<li><a href="">Forum</a></li>
+            <li><a href="">Impressum</a></li>
+		</ul>
+    </nav>
+    <div id="bild">
+    </div>
+    <div id="schluss">
+        <div id= Schluss_1>
+            <h3>Kontakte</h3> <br>      
+            <h4>Hier können sie uns erreichen:</h4>
+            <p>Mail:<a href="mailto:hugo.schoepe@stud.kbw.ch">E-Mail 
+            KBW</a> <br> Telefon: 079 144 14 14 <br>
+            Webseite:<a href="webseite_3.html">Maturitätsarbeiten</a>
+        </div>
+        <div id= Schluss_2>
+            <h3>Impressum</h3> <br> 
+            <h4>Folgende Quellen haben wir verwendet: <br>
+            Photo: <br>
+            youtube <br>
+            </h4>
+        </div>
+    </div>
+        
+
+</body>
+</html>
