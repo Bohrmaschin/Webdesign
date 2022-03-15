@@ -8,11 +8,6 @@
 
 body{
     font-family: helvetica;
-    background-image: url(kbw_zeichnung.jpeg.png);
-    background-size: cover;
-    background-position: center;
-    height: 486vh;
-    box-sizing: border-box;
     
 }
 nav{
@@ -47,6 +42,50 @@ nav ul li a{
     font-weight: bold;
 }
 a:hover{
-    background: #8a8d90   ;
+    background: #8a8d90;
     transition: .5s;
+}
+#bild{
+    background-image: url(kbw_zeichnung.jpeg.png);
+    background-size: cover;
+    background-position: top;
+    height: 486vh;
+    box-sizing: border-box;  
+}
+
+#schluss {
+    width: 100%;
+    height: 350px;
+    background-color: dimgray;
+    background-position: bottom;
+    bottom: 0;
+    overflow: hidden; 
+        
+}    
+
+#Schluss_1{
+    padding: 80px;
+    margin: 100px black;
+    width: 500px;
+    height: 300px;
+    float:right;
+    background-color: dimgray;   
+}
+
+#Schluss_2{
+    padding: 80px;
+    margin: 110px black;
+    width: 650px;
+    height: 300px;
+    position:left;
+    float:left;
+    background-color: dimgray;  
+    
+}
+
+a:link {
+  color: goldenrod;
+  background-color: transparent;
+  text-decoration: none;
+  font-weight: bold;
 }
